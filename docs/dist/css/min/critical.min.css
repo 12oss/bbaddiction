@@ -1,0 +1,3 @@
+/*C R I T I C A L  C S S */
+/*USE https://jonassebastianohlsson.com/criticalpathcssgenerator/  &   http://cssminifier.com/  to minify ---- there is actually a bookmarklet in chrome (https://gist.github.com/PaulKinlan/6284142)*/
+/****** N O T E   -  You need to remove any bootstrap col classes from this file (as well as navbar header, navbar toggle, dropdown and collapse - but keep collapse:hidden) *******/
